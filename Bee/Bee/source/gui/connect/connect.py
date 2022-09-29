@@ -21,7 +21,7 @@ class ConnectForm(QtWidgets.QGroupBox):
                            "border: solid;"
                            "border-radius: 10px;")
 
-        self.company_name = QtWidgets.QLabel(self,text="APICOO")
+        self.company_name = QtWidgets.QLabel(self,text="BEE  ")
         self.company_name.setStyleSheet("font-size: 20pt;")
 
         self.connect_bt = QtWidgets.QPushButton(self,text='CONNECT')
