@@ -1,0 +1,8 @@
+{
+    "port": {
+        "value": "COM8"
+    },
+    "baudrate": {
+        "value": "115200"
+    }
+}
